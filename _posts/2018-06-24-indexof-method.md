@@ -3,6 +3,7 @@ layout: post
 title:  "Indexof() method"
 date:   2018-06-24 20:01:19 +0100
 categories: ["javascript", "methods"]
+permalink: /:categories/:title
 ---
 
 The indexOf() method is great for finding out if a string or an array contains a value that you are looking for.

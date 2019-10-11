@@ -3,8 +3,7 @@ layout: post
 title:  "Linear vs binary search algorithms"
 date:   2018-08-24 20:01:19 +0100
 categories: ["algorithms", "javascript"]
-
-
+permalink: /:categories/:title
 ---
 
 

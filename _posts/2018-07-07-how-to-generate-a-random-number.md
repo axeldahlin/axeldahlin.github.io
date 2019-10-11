@@ -3,6 +3,7 @@ layout: post
 title:  "How to generate a radnom number?"
 date:   2018-07-07 20:01:19 +0100
 categories: ["javascript"] 
+permalink: /:categories/:title
 
 ---
 A random number can be useful every time your program to to something.... well,  random. Maybe you want to simulate a shuffled deck of cards, a dice roll or something other that doesn't so obviously depend on a random outcome.

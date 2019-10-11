@@ -1,9 +1,9 @@
 ---
 layout: post
 title:  "Forget the career for a second - 7 other reasons to enroll in a coding bootcamp"
-date:   2019-02-12
+date:   2018-12-12 20:01:19 +0100
 categories: ["javascipt"]
-
+permalink: /:categories/:title
 ---
 
 In recent years the popularity of coding bootcamps have increased a lot. And for good reason. It have been proven to be great way for changing your career and become a developer. But I found that there are more personal things to gain. Here are 7 reasons to enroll in a coding bootcamp - that has nothing (almost) to do with your career. 

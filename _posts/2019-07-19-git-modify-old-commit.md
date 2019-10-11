@@ -4,7 +4,7 @@ date: 2019-07-19T14:01:25+02:00
 draft: false
 categories: git
 tags: git
-keywords: git
+permalink: /:categories/:title
 layout: post
 ---
 

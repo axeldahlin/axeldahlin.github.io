@@ -3,6 +3,7 @@ layout: post
 title:  "Two-dimensional array + canvas = board games!"
 date:   2018-08-15 20:01:19 +0100
 categories: ["javascript", "canvas"]
+permalink: /:categories/:title
 
 ---
 This article will explain how to set up a grid that can be used for chess, a battleship game or any other board game.​

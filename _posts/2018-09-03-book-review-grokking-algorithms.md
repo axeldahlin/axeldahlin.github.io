@@ -3,7 +3,7 @@ layout: post
 title:  "Book review: Grokking Algorithms"
 date:   2018-09-03 20:01:19 +0100
 categories: ["algorithms", "javascript", "book-review", "review"]
-
+permalink: /:categories/:title
 ---
   
 ```

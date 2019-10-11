@@ -5,6 +5,7 @@ draft: true
 categories:
 tags:
 layout: post
+permalink: /:categories/:title
 ---
 
 ssss

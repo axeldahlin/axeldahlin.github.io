@@ -3,6 +3,7 @@ layout: post
 title:  "What you don't know about arrays"
 date:   2018-07-14 20:01:19 +0100
 categories: ["javascript", "arrays"]
+permalink: /:categories/:title
 
 ---
 I while ago I learned about a new way of thinking when it comes to learning (learning inception). It was a game changer for how I’m now going about learning something new.
