@@ -1,3 +1,3 @@
-# Test
+# My software engineering blog
 
-this is a test read me
+I created this blog with jekyll. You can read the blog posts on https://axeldahlin.github.io/ or as markdown in the folder _post here on GitHub.
